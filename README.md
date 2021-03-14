@@ -2,7 +2,7 @@
  * @Author: Jingsheng Lyu
  * @Date: 2021-03-12 08:02:44
  * @LastEditors: Jingsheng Lyu
- * @LastEditTime: 2021-03-13 14:08:08
+ * @LastEditTime: 2021-03-13 20:56:45
  * @FilePath: /V2X_Communication_and_Control/README.md
  * @Github: https://github.com/jingshenglyu
  * @Web: https://jingshenglyu.github.io/
@@ -28,3 +28,6 @@ Notice: Do not install the newest version of the softwares
   * [Git Guild](https://gist.github.com/LongClipeus/12b3ff66b9d6d6bea93198a84e72ca56)
 * Step 3: Download and build the Veins module framework
 * Step 4: Make sure SUMO is working
+
+## Reference
+1. [Omnet++ Simulation Manual](https://doc.omnetpp.org/omnetpp/manual/#cha:ned-lang)
